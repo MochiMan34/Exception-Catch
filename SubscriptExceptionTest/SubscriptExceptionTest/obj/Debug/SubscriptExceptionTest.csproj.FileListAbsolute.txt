@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb
